@@ -1,3 +1,3 @@
 # tipsandtricks
 
-Một số lưu ý cần thiệt trong lúc code.
+Một số lưu ý cần thiết trong lúc code.
